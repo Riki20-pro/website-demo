@@ -1,0 +1,3 @@
+- [x] Update first menu item: "Seafood Platter Premium" to "Ikan Asam Manis" with adjusted description
+- [x] Update second menu item: "Ikan Bakar Spesial" to "Ayam Goreng Jahe" with adjusted description
+- [x] Update third menu item: "Sup Seafood" to "Sapi Saus Ala Thai" with adjusted description
