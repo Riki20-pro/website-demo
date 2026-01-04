@@ -153,11 +153,6 @@ body {
   font-size: 1.2rem;
 }
 
-.reservation-header {
-  padding-top: 220px; /* tinggi navbar */
-  padding-bottom: 80px;
-}
-
 .card {
   border: none;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -207,7 +202,7 @@ body {
 
 /* FIX RESERVATION HEADER KETIBAN NAVBAR */
 .reservation-header {
-  padding-top: 120px; /* offset navbar fixed */
+  padding-top: 180px; /* offset navbar fixed */
   padding-bottom: 80px;
   background: linear-gradient(135deg, #8b4513, #d2691e);
   color: #fff;
@@ -372,4 +367,5 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: #a0522d;
 }
+
 
