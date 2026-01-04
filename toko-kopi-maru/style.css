@@ -335,12 +335,12 @@ footer {
   }
 
   .reservation-header {
-    padding-top: 100px;
+    padding-top: 160px;
     padding-bottom: 60px;
   }
   .menu-header {
-  padding-top: 180px; /* tinggi navbar */
-  padding-bottom: 80px;
+  padding-top: 160px; /* tinggi navbar */
+  padding-bottom: 60px;
 }
 }
 
@@ -366,6 +366,7 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: #a0522d;
 }
+
 
 
 
