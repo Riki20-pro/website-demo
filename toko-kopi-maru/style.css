@@ -292,11 +292,6 @@ footer {
     text-align: center;
   }
 
-  .menu-header {
-    padding-top: 100px;
-    padding-bottom: 60px;
-  }
-
   .navbar-nav {
     gap: 10px;
     text-align: center;
@@ -367,5 +362,6 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: #a0522d;
 }
+
 
 
