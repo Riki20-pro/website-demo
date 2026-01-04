@@ -28,7 +28,7 @@ body {
 
 /* Logo */
 .logo-navbar {
-  height: 80px;
+  height: 50px;
   width: auto;
 }
 
@@ -154,7 +154,7 @@ body {
 }
 
 .reservation-header {
-  padding-top: 180px; /* tinggi navbar */
+  padding-top: 220px; /* tinggi navbar */
   padding-bottom: 80px;
 }
 
@@ -372,3 +372,4 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: #a0522d;
 }
+
